@@ -8,3 +8,9 @@
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
+
+<div align="center">
+
+ # pageviews:  ![counter](https://counter.seku.su/cmoe?name=jeanhua&theme=mbs)
+
+</div>
