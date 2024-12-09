@@ -12,7 +12,7 @@
 
 ### 🏀language :
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanhua&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanhua&hide=javascript,css,scss,html&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
