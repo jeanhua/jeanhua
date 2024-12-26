@@ -20,6 +20,6 @@
 
 <div align="center">
 
- # pageviews:  ![counter](https://counter.seku.su/cmoe?name=jeanhua&theme=mbs)
+ # pageviews:  ![counter](https://count.getloli.com/@jeanhua?name=jeanhua&theme=capoo-2&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
 </div>
