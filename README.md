@@ -8,7 +8,17 @@
 
 ### 💻 Technologies :
 
-  ![skills](https://skillicons.dev/icons?perline=14&i=bash,git,github,html,java,python,c,cpp,cs,dart,js,linux,ubuntu,md,ps,postman,sqlite,ts,vscode,visualstudio,idea,qt,pycharm,unity,flutter,vue)
+**langrage**
+
+![skills](https://skillicons.dev/icons?perline=14&i=html,java,python,c,cpp,cs,typescript,dart,javascript)
+
+**framework**
+
+![skills](https://skillicons.dev/icons?perline=14&i=flutter,vue)
+
+**tools**
+
+![skills](https://skillicons.dev/icons?perline=14&i=git,github,linux,ubuntu,md,photoshop,postman,sqlite,vscode,visualstudio,idea,qt,pycharm,unity)
 
 ### 🏀language :
 
