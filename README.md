@@ -18,7 +18,11 @@
 
 **tools**
 
-![skills](https://skillicons.dev/icons?perline=14&i=git,github,linux,ubuntu,md,photoshop,postman,sqlite,vscode,visualstudio,idea,qt,pycharm,unity)
+![skills](https://skillicons.dev/icons?perline=14&i=git,github,linux,ubuntu,md,photoshop,postman,sqlite)
+
+**ide**
+
+![skills](https://skillicons.dev/icons?perline=14&i=vscode,visualstudio,idea,qt,pycharm,unity)
 
 ### 🏀language :
 
