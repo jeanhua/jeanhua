@@ -8,23 +8,9 @@
 
 ### 💻 Technologies :
 
-**langrage**
+![skills](https://skillicons.dev/icons?perline=14&i=html,java,python,c,cpp,cs,typescript,dart,javascript,flutter,vue,git,github,linux,ubuntu,md,photoshop,postman,sqlite,vscode,visualstudio,idea,qt,pycharm,unity)
 
-![skills](https://skillicons.dev/icons?perline=14&i=html,java,python,c,cpp,cs,typescript,dart,javascript)
-
-**framework**
-
-![skills](https://skillicons.dev/icons?perline=14&i=flutter,vue)
-
-**tools**
-
-![skills](https://skillicons.dev/icons?perline=14&i=git,github,linux,ubuntu,md,photoshop,postman,sqlite)
-
-**ide**
-
-![skills](https://skillicons.dev/icons?perline=14&i=vscode,visualstudio,idea,qt,pycharm,unity)
-
-### 🏀language :
+### 🏀most used languages :
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanhua&hide=javascript,css,scss,html,cmake&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
