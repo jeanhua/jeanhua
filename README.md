@@ -10,9 +10,13 @@
 
 ![skills](https://skillicons.dev/icons?perline=14&i=html,java,python,c,cpp,cs,typescript,dart,javascript,flutter,vue,git,github,linux,ubuntu,md,photoshop,postman,sqlite,vscode,visualstudio,idea,qt,pycharm,unity)
 
-### 🏀most used languages :
+### 🏀Info:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanhua&hide=javascript,css,scss,html,cmake&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+<div style="display:flex;justify-content:center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanhua&hide=javascript,css,scss,html,cmake&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="most used lang" </img>
+    <img src="https://github-readme-stats.vercel.app/api?username=jeanhua&show_icons=true&locale=en" alt="stats" </img>
+</div>
+
 
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
