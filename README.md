@@ -23,7 +23,7 @@
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
-![saying](./assets/saying.png)
+![saying](assets/saying.png)
 
 ## pageviews:![](https://count.getloli.com/@jeanhua?name=jeanhua&theme=capoo-2&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
