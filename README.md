@@ -23,9 +23,7 @@
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
-<p align="center">
- <img src="assets/saying.png" alt="saying"/>
-</p>
+
 
 ## pageviews:![](https://count.getloli.com/@jeanhua?name=jeanhua&theme=capoo-2&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
