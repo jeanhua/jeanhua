@@ -8,7 +8,7 @@
 
 ### 💻 Technologies  I Use:
 
-![skills](https://skillicons.dev/icons?perline=14&i=html,java,python,c,cpp,cs,go,typescript,dart,javascript,flutter,vue,vite,react,git,github,linux,ubuntu,md,photoshop,postman,sqlite,vscode,visualstudio,idea,qt,pycharm,unity)
+![skills](https://skillicons.dev/icons?perline=14&i=html,java,python,c,cpp,cs,go,typescript,dart,javascript,flutter,vue,vite,react,git,github,linux,ubuntu,md,bash,postman,sqlite,vscode,visualstudio,idea,qt,pycharm,unity)
 
 ### 🏀Info:
 
