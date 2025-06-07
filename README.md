@@ -1,8 +1,10 @@
 - 👋 Hi, I’m [![@jeanhua](https://img.shields.io/badge/@jeanhua-8A2BE2)](https://github.com/jeanhua)
 
-- 🩹 My blog [@jeanhua](https://www.blog.jeanhua.cn/)
+- 🩹 My blog [jeanhua's blog](https://www.blog.jeanhua.cn/)
 
-- 🌍 My page [jeanhua's page](https://www.jeanhua.cn)  **<u>use not vpn</u>!**
+- 🌍 My page [jeanhua's page](https://www.jeanhua.cn)
+
+- 📒 My notes [jeanhua's memos](https://memos.jeanhua.cn)
 
 - 🏫 I am an undergraduate student in the Computer Science College of Sichuan University,class of 2023
 
