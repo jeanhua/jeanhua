@@ -20,7 +20,7 @@
 </div>
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=jeanhua)
+![trophy](https://github-trophies.vercel.app/?username=jeanhua)
 
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
