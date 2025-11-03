@@ -16,7 +16,7 @@
 
 <div style="display:flex;justify-content:center;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanhua&layout=donut&hide=javascript,css,scss,html,cmake" alt="most used lang" </img>
-    <img src="https://github-readme-stats-gamma-five-15.vercel.app/api?username=jeanhua&include_all_commits=true&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="stats" </img>
+    <img src="https://github-readme-stats-git-master-airopis-projects.vercel.app/api?username=jeanhua&include_all_commits=true&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="stats" </img>
 </div>
 
 
